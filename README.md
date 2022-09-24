@@ -13,3 +13,9 @@ https://karakuri-musha.com/inside-technology/arduino-microbit-01-aicamera-tagrec
 
 ## Src File
 "src"フォルダにソース一式が入っています。Arduino IDEをインストールしたパソコンにフォルダごとダウンロードして、「Microbit_HASKYLENS_2_tag.ino」を開いてください。
+
+The "src" folder contains a set of sources. Download each folder to a computer with Arduino IDE installed, and open "Microbit_HASKYLENS_2_tag.ino".
+
+## Operating environment
+動作確認環境は以下の通りです。
+-1.HARDWARE
