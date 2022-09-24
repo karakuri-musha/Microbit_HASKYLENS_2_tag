@@ -18,4 +18,15 @@ The "src" folder contains a set of sources. Download each folder to a computer w
 
 ## Operating environment
 動作確認環境は以下の通りです。
--1.HARDWARE
+
+###1.HARDWARE
+- Tamiya Robot CRAWLER
+   in micro:bit V2 
+- DFRobot HUSKYLENS (Farmware:V0.5.1a.)
+
+###2.IDE
+- Arduino IDE (ver:1.8.19)
+
+###3.Other
+ ライブラリやボードマネージャなどの構成は、上記のBlog URLを参照してください。
+ Please refer to the blog URL above for configuration of libraries, boards manager, etc.
