@@ -29,4 +29,5 @@ The "src" folder contains a set of sources. Download each folder to a computer w
 
 ### 3.Other
  ライブラリやボードマネージャなどの構成は、上記のBlog URLを参照してください。
+ 
  Please refer to the blog URL above for configuration of libraries, boards manager, etc.
